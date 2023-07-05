@@ -2,7 +2,6 @@
 Materia 'Conceptos de Algoritmos, Datos y Programas' de la Facultad de Informática de La Plata, materia del primer semestre de primer año.
 
 - [Ejercicios](https://github.com/gretoide/CADP/tree/master/ejercicios) 
-- [Prácticas](https://github.com/gretoide/CADP/tree/master/ejercicios/pdfs%20practicas)     
 
 ## Recursos
 - [Free Pascal](https://www.freepascal.org/download.html)
